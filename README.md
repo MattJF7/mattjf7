@@ -1,34 +1,47 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">An 18-year-old from Canada interested in operating systems, frontend development, and computers.</h3>
+
+###
+
+<p align="center">An 18-year-old from Canada interested in operating systems, frontend development, and computers.</p>
+
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mattjf7&label=Profile%20views&color=0e75b6&style=flat" alt="mattjf7" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+</div>
 
-  <br><br>
+###
 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
 
-  <br>
+###
 
-  <h3 align="center">Connect with me:</h3>
-  <a href="https://discord.com/users/1464031098420989973" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mattjf7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
-  <br>
+###
 
-  <h3 align="center">Languages and Tools:</h3>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mattjf7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/1464031098420989973" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
   </a>
 </div>
+
+###
