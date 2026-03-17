@@ -3,25 +3,25 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mattjf7&label=Profile%20views&color=0e75b6&style=flat" alt="mattjf7" />
-</div>
 
-<div align="center">
+  <br><br>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mattjf7/mattjf7/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+  <br>
+
+  <h3 align="center">Connect with me:</h3>
   <a href="https://discord.com/users/1464031098420989973" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
+  <br>
+
+  <h3 align="center">Languages and Tools:</h3>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
